@@ -1,3 +1,15 @@
-.body {
-    background-color: aqua;
+.name {
+    color: #f148b9;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-decoration: underline;
+    text-align: center;
+}
+
+body {
+    background-color: #f5cdf3;
+}
+
+.links {
+    position: center;
+    margin:auto
 }
