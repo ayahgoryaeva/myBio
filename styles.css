@@ -1,15 +1,32 @@
 .name {
-    color: #f148b9;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #b6bb79;
     text-decoration: underline;
     text-align: center;
 }
 
 body {
-    background-color: #f5cdf3;
+    background-color: #f3ebd8;
+    color: #f297a0;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
 .links {
     position: center;
-    margin:auto
+}
+
+.me {
+    color: #b6bb79;
+}
+
+.nomatter {
+    color: #f9d0ce;
+}
+
+.photo {
+    display: block;
+    margin: 0 auto;
+}
+
+.pikmi {
+    color: #f9d0ce;
 }
